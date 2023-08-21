@@ -14,5 +14,3 @@
 ### Actividad 3
 -Programa 5
 -Prograna 6
-
-#   Ayuda
