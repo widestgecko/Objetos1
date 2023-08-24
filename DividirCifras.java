@@ -1,19 +1,22 @@
+//Antonio RuBén Martínez Villegas
+
 import java.util.Scanner;
 
 public class DividirCifras {
     public static void main(String[] args) {
-        public static void main(String[] args) {
-            System.out.print("\033[H\033[2J"); System.out.flush();
-            int num, unidades, decenas, centenas;
-            System.out.println("Dame un numero entero de 3 cifra: ");
-            num = new Scanner(System.in).nextInt();
-            centenas = num / 100 ;
-            decenas = ( num - centenas * 100) / 10 ;
-            unidades = ( num - (centenas * 100 + decenas * 10) );
-            System.out.println("El nuemero introducido fue : " + num);
-            System.out.println("Centenas : " + centenas);
-            System.out.println("Decenas : " + decenas);
-            System.out.println("Unidades : " + unidades);
+        System.out.print("\033[H\033[2J"); System.out.flush();
+
+        System.out.print("Dame un numero de 3 cifras ?");
+        int num=new Scanner(System.in).nextInt();
+
+        int centenas = num/100;
+        int decenas = (num - centenas*100)/10;
+        int unidades = (num - (centenas*100 + decenas*10));
+
+        System.out.println("El numero es: " + num);
+        System.out.println("Centenas: "+ centenas);
+        System.out.println("Decenas: "+ decenas);
+        System.out.println("Unidades: "+ unidades);
+
     }
-    
 }
