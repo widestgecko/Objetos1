@@ -2,13 +2,13 @@
 
 import java.util.Scanner;
 public class FuncionesTrigonometricas {
-    public static void main(String[] args) {
+    public static void main(String[] args, Scanner scanner) {
         //Se limpia la pantalla de la consola.
         System.out.print("\033[H\033[2J"); System.out.flush();
 
         //Obtencion de datos.
         System.out.print("Dame un angulo en Grados: ");
-        double angulog = new Scanner(System.in).nextDouble();
+        double angulog = scanner.nextDouble();
 
         //Calculos.
         double angulor = Math.toRadians(angulog);
