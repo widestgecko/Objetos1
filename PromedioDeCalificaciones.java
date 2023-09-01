@@ -23,6 +23,6 @@ public class PromedioDeCalificaciones {
         System.out.printf("Promedio: %.2f\n",prom);
         System.out.printf("Mayor: %.2f\n",max);
         System.out.printf("Menor: %.2f\n",min);
-        
+        obj.close();         
     }
 }

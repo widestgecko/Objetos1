@@ -2,7 +2,6 @@
 //Estaciones del año
 //Actividad 5
 //31/08/2023
-import java.until.scanner;
 import java.util.Scanner;  
 public class _p25EstacionesAño {
     public static void main(String[] args) {

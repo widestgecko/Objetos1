@@ -29,5 +29,6 @@ public class _p27AceptarEstudiante {
         else
                 System.out.println("Solo aceptamos estudiantes mayores de edad");
         System.out.println("\nProceso terminado ...");
+        obj.close(); 
     }
 }

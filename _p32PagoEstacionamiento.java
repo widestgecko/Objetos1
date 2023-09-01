@@ -33,5 +33,6 @@ public class _p32PagoEstacionamiento {
         "El pago total es de %,.2f",op,pago,impuesto,total);
         System.out.println(salida);
         System.out.println("\n\nProceso terminado ...");
+        obj.close();  
     }
 }

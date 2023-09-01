@@ -40,6 +40,7 @@ public class _p29Calculadora {
                 System.out.printf("\nOperación Inválida ...");
                 break;
         }
-         System.out.println("\n\nProceso terminado ...");
+        System.out.println("\n\nProceso terminado ...");
+        obj.close(); 
     }
 }

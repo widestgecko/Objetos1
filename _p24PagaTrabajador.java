@@ -27,5 +27,6 @@ public class _p24PagaTrabajador {
         
         //Le decimos al pobre desgraciado cuantas tazas de arróz podrá comprár
         System.out.printf("\nPago total: %.2f", total);
+        obj.close();
     }
 }
