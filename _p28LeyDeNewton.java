@@ -47,6 +47,7 @@ public class _p28LeyDeNewton {
             System.out.printf("\nAceleración: %.2f", a);
         } else
         System.out.println("\nOpcion Invalida \n");
+        obj.close();
     }
         
 }
