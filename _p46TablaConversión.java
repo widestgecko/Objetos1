@@ -10,11 +10,11 @@ public class _p46TablaConversión {
         float tc = 19.99f;
         char resp;
 
-        //Creamos una entrada de datos.
+        //Creamos una entrada de datos
         Scanner DatoIng = new Scanner(System.in);
 
         do {
-            //Limpiamos la pantalla de la consola.
+
             System.out.print("\033[H\033[2J");System.out.flush();
 
             System.out.println("Este programa imprime una tabla de conversion de pesos a dolares.\nPresione ENTER para continuar.");
