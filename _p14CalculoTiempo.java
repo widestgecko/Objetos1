@@ -26,6 +26,7 @@ public class _p14CalculoTiempo {
     segundos = horas*(60*60);
     //Respuesta
     System.out.printf("Si han pasado %.2f horas serán:\nDías: %.2f.\nMinutos: %.2f.\nSegundos: %.2f.", horas, dias, minutos, segundos);
+    DatoUsuario.close();
     } 
 }
 

@@ -22,5 +22,6 @@ public class _p22VerificaSuma {
     else
             System.out.println("\nSon distintos");
             System.out.println("\nGracias por utilizar este programa");
+        obj.close();
     }
 }

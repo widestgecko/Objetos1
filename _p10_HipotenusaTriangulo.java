@@ -29,5 +29,6 @@ public class _p10_HipotenusaTriangulo {
         
         //Se muestran los resultados en pantalla.
         System.out.println(String.format("La hipotenusa del triangulo es de: %.2f.", Hip));
+        Usuario.close();
     }
 }

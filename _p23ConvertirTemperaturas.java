@@ -37,5 +37,6 @@ public class _p23ConvertirTemperaturas {
             System.out.printf("%.2f Centigrados, equivale a %.2f Farenheit", temp, resultado);;
         }
         System.out.println("\nGracias por utilizar este programa");
+        obj.close();
     }
 }

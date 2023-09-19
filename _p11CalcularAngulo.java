@@ -21,5 +21,6 @@ public class _p11CalcularAngulo {
         
         angulo3 = 180-(angulo1+angulo2);
         System.out.printf("El Tercer angulo mide: %.2f",angulo3);
+        Datousuario.close();
     }
 }
