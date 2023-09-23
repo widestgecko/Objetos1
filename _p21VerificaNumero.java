@@ -24,6 +24,6 @@ public class _p21VerificaNumero {
 
         System.out.println("El número es CERO");
 
-        System.out.println("\nHasta la próxima!!\n");   
+
     }
 }
