@@ -25,7 +25,7 @@ public class _p64SumTerminos2 {
             }
             sum += term;
             
-            //Resultados.
+            //Se escribe el resultado
             System.out.printf("%d\nEl resultado es: %d\n",term, sum);
             
 
