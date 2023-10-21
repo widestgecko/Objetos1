@@ -1,6 +1,6 @@
 package _p101_Persona;
 
-import _Persona_106.Persona;
+import _p106_Persona.Persona;
 
 public class app {
     public static void main(String[] args) {

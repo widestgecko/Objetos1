@@ -1,4 +1,4 @@
-package _Persona_106;
+package _p106_Persona;
 
 import _p101_Persona.Trabajo;
 
