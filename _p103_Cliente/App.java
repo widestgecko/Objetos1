@@ -24,7 +24,6 @@ public class App {
         System.out.println("Cliente Descuento es : " +
         inv1.getCliente().getDescuento() + "%");
 
-        System.out.printf("Monto despues de descuento es :
-        %.2f%n", inv1.getMontoDespuesDeDescuento());
+        System.out.printf("Monto despues de descuento es : %.2f%n", inv1.getMontoDespuesDeDescuento());
     }
 }
