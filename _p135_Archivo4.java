@@ -36,7 +36,6 @@ public class _p135_Archivo4 {
         return datos;
     }
 
-}
 
     public static void main(String[] args) {
         String archivo = "datos.txt";

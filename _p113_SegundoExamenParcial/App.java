@@ -1,6 +1,7 @@
 //Antonio Rubén Mattínez Villegas
 //23/10/2023
 //Segundo examen parcial
+/*
 package _p113_SegundoExamenParcial;
 
 public class App {
@@ -22,3 +23,4 @@ public class App {
         miequipo.reporte();
     }
 }   
+*/

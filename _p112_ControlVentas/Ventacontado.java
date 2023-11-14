@@ -1,3 +1,4 @@
+/*
 package _p112_ControlVentas;
 
 public class VentaContado extends Venta {
@@ -17,3 +18,4 @@ public class VentaContado extends Venta {
         return Total;
     }
 }
+*/

@@ -1,3 +1,4 @@
+/* 
 package _p112_ControlVentas;
 
 public class App {
@@ -29,3 +30,4 @@ public class App {
         tienda.reporte();
     }
 }
+*/

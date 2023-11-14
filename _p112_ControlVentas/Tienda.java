@@ -1,3 +1,4 @@
+/*
 package _p112_ControlVentas;
 
 import java.util.ArrayList;
@@ -35,4 +36,4 @@ public class Tienda {
     public String toString(){
         return String.format("[Tienda %s, Propietaro: %s, Direccion: %s, Clientes: %d, Total de ventas: %.2f]", Nombre, Propietario, Domicilio, Clientes.size(), getTotal());
     }
-}
+*/

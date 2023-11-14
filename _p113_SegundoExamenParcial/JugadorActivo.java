@@ -1,3 +1,4 @@
+/*
 package _p113_SegundoExamenParcial;
 
 public class JugadorActivo extends Jugador {
@@ -38,4 +39,4 @@ public class JugadorActivo extends Jugador {
                     "\nTotal: " + getTotal();
         }
 }
-
+*/
